@@ -15,6 +15,5 @@ public class Test {
 
         Arrays.stream(l1).forEach(System.out::println);
 		
-		//hello
     }
 }
